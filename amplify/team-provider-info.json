@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-thouzerremote-dev-88f9b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::478054654864:role/amplify-thouzerremote-dev-88f9b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::478054654864:role/amplify-thouzerremote-dev-88f9b-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-thouzerremote-dev-88f9b-deployment",
+      "UnauthRoleName": "amplify-thouzerremote-dev-88f9b-unauthRole",
+      "StackName": "amplify-thouzerremote-dev-88f9b",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:478054654864:stack/amplify-thouzerremote-dev-88f9b/d9756960-73ff-11ef-9a6a-0e0bb1ccf3b1",
+      "AmplifyAppId": "d3qx81hjm7evz7"
+    },
+    "categories": {
+      "auth": {
+        "thouzerremote4a0ae3be": {}
+      }
+    }
+  }
+}
