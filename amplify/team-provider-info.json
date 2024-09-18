@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "thouzerremote4a0ae3be": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3qx81hjm7evz7",
+          "type": "cicd"
+        }
       }
     }
   }

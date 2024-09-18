@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css'
 
 import { Amplify } from "aws-amplify";
-import config from "./amplifyconfiguration.json";
+import config from "./aws-exports.js";
 Amplify.configure(config);
 
 createRoot(document.getElementById('root')).render(
